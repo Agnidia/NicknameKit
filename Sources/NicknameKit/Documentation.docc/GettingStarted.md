@@ -12,7 +12,7 @@ Add NicknameKit to your `Package.swift` dependencies:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/IGRSoft/NicknameKit.git", from: "1.0.0")
+    .package(url: "https://github.com/Agnidia/NicknameKit.git", from: "1.0.0")
 ]
 ```
 
